@@ -9,7 +9,7 @@
 *   [Support](#support-this-project)
 *   [Contacts](#contacts)
 
-# CexAPI Tool
+# Cex io API Tool
 
 ## Recommendation Before Use
 
