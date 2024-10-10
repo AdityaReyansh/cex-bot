@@ -15,6 +15,11 @@
 
 Before using this tool, please ensure that automating interactions with the cex.io platform does not violate their terms of service or any applicable laws in your jurisdiction. Use this tool responsibly and at your own risk.
 
+> [!WARNING]
+> ⚠️ I do my best to avoid detection of bots, but using bots is forbidden in all airdrops. i cannot guarantee that you will not be detected as a bot. Use at your own risk. I am not responsible for any consequences of using this software.
+
+# 🔥🔥 Use PYTHON 3.6 - 3.11.5 🔥🔥
+
 ## Features
 
 | Feature | Supported |
@@ -47,18 +52,33 @@ Before using this tool, please ensure that automating interactions with the cex.
 
 ## Quick Start
 
-To install libraries and run the tool, follow the instructions for your operating system below.
+To install libraries and run bot - open run.bat on Windows
 
 ## Prerequisites
-
 Before you begin, make sure you have the following installed:
-
 *   [Python](https://www.python.org/downloads/) **IMPORTANT**: Use **Python 3.6 or later**.
 *   Basic understanding of command-line operations.
 *   Account data prepared in `data.txt`.
 *   Proxy list prepared in `proxy.txt`.
 
 ## Installation
+You can download the [**repository**](https://github.com/AdityaReyansh/cex-bot) by cloning it to your system and installing the necessary dependencies:
+```shell
+git clone https://github.com/AdityaReyansh/cex-bot.git
+cd cex-bot
+```
+
+Then you can do automatic installation by typing:
+
+Windows:
+```shell
+run.bat
+```
+
+Linux:
+```shell
+run.sh
+```
 
 ### Linux Manual Installation
 
@@ -88,7 +108,7 @@ Before you begin, make sure you have the following installed:
         
 5.  **Run the Script:**
     
-    `python3 cexapi.py`
+    `python3 cex.py`
     
 
 ### Windows Manual Installation
@@ -108,7 +128,7 @@ Before you begin, make sure you have the following installed:
     
 4.  **Download the Script:**
     
-    `git clone https://github.com/yourusername/cexapi-tool.git cd cexapi-tool`
+    `git clone https://github.com/AdityaReyansh/cex-bot.git cd cexapi-tool`
     
 5.  **Prepare `data.txt` and `proxy.txt`:**
     
@@ -117,7 +137,7 @@ Before you begin, make sure you have the following installed:
 6.  **Run the Script:**
     
     
-    `python cexapi.py`
+    `python cex.py`
     
 
 ### Termux Manual Installation
@@ -141,14 +161,14 @@ Before you begin, make sure you have the following installed:
     
 5.  **Download the Script:**
 
-    `git clone https://github.com/yourusername/cexapi-tool.git cd cexapi-tool`
+    `git clone https://github.com/AdityaReyansh/cex-bot.git cd cexapi-tool`
     
 6.  **Prepare `data.txt` and `proxy.txt`:**
     
     *   Use `nano` or any text editor to create `data.txt` and `proxy.txt` with the required content.
 7.  **Run the Script:**
     
-    `python cexapi.py`
+    `python cex.py`
     
 
 ## Support This Project
