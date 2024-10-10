@@ -128,7 +128,7 @@ run.sh
     
 4.  **Download the Script:**
     
-    `git clone https://github.com/AdityaReyansh/cex-bot.git cd cexapi-tool`
+    `git clone https://github.com/AdityaReyansh/cex-bot.git cd cex-bot`
     
 5.  **Prepare `data.txt` and `proxy.txt`:**
     
@@ -161,7 +161,7 @@ run.sh
     
 5.  **Download the Script:**
 
-    `git clone https://github.com/AdityaReyansh/cex-bot.git cd cexapi-tool`
+    `git clone https://github.com/AdityaReyansh/cex-bot.git cd cex-bot`
     
 6.  **Prepare `data.txt` and `proxy.txt`:**
     
