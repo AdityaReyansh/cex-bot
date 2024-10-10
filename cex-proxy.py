@@ -193,7 +193,7 @@ class CexAPI:
 
                     if current_level < len(upgrade['levels']):
                         next_level = current_level + 1
-                        cost, ccy, effect, effect_ccy = upgrade['levels'][current_level]
+                        cost, ccy, effect, effect_ccy, ukn = upgrade['levels'][current_level]
 
                         if ccy == "USD" and balance_usd < cost:
                             self.log(f"Skipping card {upgrade['upgradeName']}: Not enough USD (requires {cost} USD, have {balance_usd} USD)", 'warning')
