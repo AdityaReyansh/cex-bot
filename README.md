@@ -155,6 +155,8 @@ Before you begin, make sure you have the following installed:
 
 If you'd like to support the development of this project, please consider making a donation. Every contribution helps!
 
+👉 **[Click here to view donation options](https://github.com/AdityaReyansh/Donation/blob/main/README.md)** 👈
+
 Your support allows us to keep improving the project and bring more features!
 
 Thank you for your generosity! 🙌
